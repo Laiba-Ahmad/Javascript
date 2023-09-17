@@ -7,7 +7,7 @@ var fullName = prompt("Enter Your First Name")
 var lastName = prompt("Enter Your Last Name")
 console.log(fullName+" "+lastName)
 
-// Example
+// Example If
 var gender = prompt("Enter Your Gender")
 if(gender === "Male"){
     alert("Hello, Sir")
