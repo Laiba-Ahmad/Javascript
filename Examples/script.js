@@ -1,4 +1,4 @@
-
+document.write("<p>Made By Laiba</p>")
 //  Example alert
 alert("Hello Laiba")
 
@@ -31,3 +31,7 @@ else{
 // Array Example
 var Name = ["Laiba","Naima","Ahesha","Ahmad"]
 console.log(Name)
+
+// Example
+var student = ["Laiba","Naima","Ahmad","Ayesha"]
+console.log("Student:",student[0])
