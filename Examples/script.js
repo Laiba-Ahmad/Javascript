@@ -15,3 +15,15 @@ if(gender === "Male"){
 if(gender === "Female"){
     alert("Hello, Sister")
 }
+
+// Example 
+var gender2 = prompt("Enter Your Gender")
+if(gender2 === "Male"){
+    alert("Hello, Sir")
+}
+else if(gender2 === "Female"){
+    alert("Hello, Sister")
+}
+else{
+    alert("Please Enter Your Gender")
+}
