@@ -27,3 +27,7 @@ else if(gender2 === "Female"){
 else{
     alert("Please Enter Your Gender")
 }
+
+// Array Example
+var Name = ["Laiba","Naima","Ahesha","Ahmad"]
+console.log(Name)
