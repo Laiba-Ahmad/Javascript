@@ -26,3 +26,6 @@ integer ==> 1,2,3,4,5,6,7,8,9,10
 Alert is used to show a message to the user
 // TRANSLATE
 الرٹ یوزر کو میسج شو کروانے کے لیے استعمال ہوتا ہے
+Alerts are also used by us to show messages or perform operations
+// TRANSLATE
+الرٹ کو ہم میسج شو کروانے کے لیے یا اپریشن پرفارم کرنے کے لیے بھی استعمال کرتے ہیں
