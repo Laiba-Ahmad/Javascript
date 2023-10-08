@@ -48,3 +48,5 @@ Three methods to print
 1) document.write
 2) alert
 3) console.log
+
+var ==> variable
