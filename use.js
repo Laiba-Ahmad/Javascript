@@ -50,3 +50,14 @@ Three methods to print
 3) console.log
 
 var ==> variable
+
+// How many Case in js
+There are 3 case in js
+1) Camel Case
+2) Snake Case
+3) Pascal Case
+
+// HOW MANY case-sensitive IN JS
+There are two types of case-sensitive.
+1) Lower Case
+2) Upper Case
