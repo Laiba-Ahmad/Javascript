@@ -3,7 +3,7 @@ document.write("<p>Made By Laiba</p>")
 // WHAT IS JavaScript
 JavaScript is the Programming Language for the Web. JavaScript can update and change both HTML and CSS. JavaScript can calculate, manipulate and validate data.
 // TRANSLATE
-    دونوں کو اپ ڈیٹ اور تبدیل کر سکتا ہے۔  CSS  اور JavaScript HTML ویب کے لیے پروگرامنگ لینگویج ہے۔ JavaScript
+ڈیٹا کا حساب، ہیرا پھیری اور توثیق کر سکتا ہے۔ JavaScript دونوں کو اپ ڈیٹ اور تبدیل کر سکتا ہے۔  CSS  اور JavaScript HTML ویب کے لیے پروگرامنگ لینگویج ہے۔ JavaScript
         
 // WHAT IS Function
 Where there are round brackets, it will be a function
