@@ -29,3 +29,8 @@ Alert is used to show a message to the user
 Alerts are also used by us to show messages or perform operations
 // TRANSLATE
 الرٹ کو ہم میسج شو کروانے کے لیے یا اپریشن پرفارم کرنے کے لیے بھی استعمال کرتے ہیں
+
+There are three methods to print
+1) document.write
+2) alert
+3) console.log
