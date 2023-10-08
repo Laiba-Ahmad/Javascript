@@ -1,4 +1,18 @@
 document.write("<p>Made By Laiba</p>")
+
+// Example
+document.write("2"+"Laiba")
+
+// + see two things 
+agar integer huye to operation perform
+agar string hua to usko concat kardega
+
+// WHAT IS STRING
+string ==> "Hello World"
+
+// WHAT IS INTEGER
+integer ==> 1,2,3,4,5,6,7,8,9,10
+
 //  Example alert
 alert("Hello Laiba")
 
