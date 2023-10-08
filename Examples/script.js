@@ -1,11 +1,22 @@
 document.write("<p>Made By Laiba</p>")
 
+// WHAT IS Function
+Where there are round brackets, it will be a function
+// TRANSLATE
+جہاں پر راؤنڈ بریکٹ ہوں گے تو وہ فنکشن ہوگا
+    
+    
 // Example
 document.write("2"+"Laiba")
 
 // + see two things 
-agar integer huye to operation perform
+If it is an integer, the operation will be performed
+// TRANSLATE
+
 agar string hua to usko concat kardega
+// TRANSLATE
+اگر وہ سٹرنگ ہوگا تو وہ اس کو کون کیٹ کر دے گا
+
 
 // WHAT IS STRING
 string ==> "Hello World"
