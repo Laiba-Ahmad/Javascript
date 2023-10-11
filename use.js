@@ -1,18 +1,15 @@
 document.write("<p>Made By Laiba</p>")
 
 // WHAT IS JavaScript
-JavaScript is the Programming Language for the Web. JavaScript can update and change both HTML and CSS. JavaScript can calculate, manipulate and validate data.
-// TRANSLATE
-ڈیٹا کا حساب، ہیرا پھیری اور توثیق کر سکتا ہے۔ JavaScript دونوں کو اپ ڈیٹ اور تبدیل کر سکتا ہے۔  CSS  اور JavaScript HTML ویب کے لیے پروگرامنگ لینگویج ہے۔ JavaScript
+JavaScript is the Programming Language for the Web.
+JavaScript can update and change both HTML and CSS.
+JavaScript can calculate, manipulate and validate data.
 
 // What is JavaScript and why it is used?
 JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
-// TRANSLATE
 
-What is JavaScript explain?
+// What is JavaScript explain?
 JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, ...        
-// TRANSLATE
-
 
 // WHAT IS Function
 Where there are round brackets, it will be a function
@@ -41,8 +38,6 @@ Alert is used to show a message to the user
 // TRANSLATE
 الرٹ یوزر کو میسج شو کروانے کے لیے استعمال ہوتا ہے
 Alerts are also used by us to show messages or perform operations
-// TRANSLATE
-الرٹ کو ہم میسج شو کروانے کے لیے یا اپریشن پرفارم کرنے کے لیے بھی استعمال کرتے ہیں
 
 Three methods to print
 1) document.write
