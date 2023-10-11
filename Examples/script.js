@@ -43,7 +43,7 @@ if(gender === "Female"){
     alert("Hello, Sister")
 }
 
-// Example 
+// Example  IF,ELSE IF,ELSE
 var gender2 = prompt("Enter Your Gender")
 if(gender2 === "Male"){
     alert("Hello, Sir")
