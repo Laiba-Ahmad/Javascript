@@ -92,3 +92,16 @@ for(var i = 0; i < 10; i++){
     console.log("Test")
 
 }
+//  Example of;
+// pre increment
+// post increment
+
+// post decrement
+// post increment
+
+var a = 12
+var b = 15
+var c = -5
+var d = 20
+var result = b + b++ + ++b - d + d++ + c-- + ++a - --a + a++ + c++ + 30 -10
+document.write(result)
