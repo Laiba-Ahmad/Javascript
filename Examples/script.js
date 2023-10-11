@@ -24,8 +24,12 @@ string ==> "Hello World"
 // WHAT IS INTEGER
 integer ==> 1,2,3,4,5,6,7,8,9,10
 
-//  Example alert
+//  Example alert (1)
 alert("Hello Laiba")
+
+//  Example alert (2)
+alert(2+2)
+
 
 //  Example prompt
 var fullName = prompt("Enter Your First Name")
