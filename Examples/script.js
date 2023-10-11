@@ -30,6 +30,10 @@ alert("Hello Laiba")
 //  Example alert (2)
 alert(2+2)
 
+// Add two num
+var num1 = 5
+var num2 = 5
+document.write(num1+num2)
 
 //  Example prompt
 var fullName = prompt("Enter Your First Name")
