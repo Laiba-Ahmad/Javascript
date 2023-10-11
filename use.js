@@ -61,3 +61,7 @@ There are 3 case in js
 There are two types of case-sensitive.
 1) Lower Case
 2) Upper Case
+
+// What is  parseInt
+1. A string to convert into a number
+2.Converts a string to an integer
