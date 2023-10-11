@@ -9,6 +9,14 @@ alert("Hello Laiba")
 //  Example alert (2)
 alert(2+2)
 
+// prompt Example
+var name = prompt("What is your Name?")
+var email = prompt("What is your email?")
+document.write("User Name :"+" "+ name + "</hr>" )
+document.write("User Email :"+" "+ email + "</hr>")
+
+
+
 // Add two num
 var num1 = 10
 var num2 = 5
