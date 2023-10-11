@@ -31,7 +31,7 @@ alert("Hello Laiba")
 alert(2+2)
 
 // Add two num
-var num1 = 5
+var num1 = 10
 var num2 = 5
 document.write(num1+num2)
 
