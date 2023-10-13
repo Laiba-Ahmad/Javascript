@@ -66,3 +66,13 @@ There are two types of case-sensitive.
 1. A string to convert into a number
 2.Converts a string to an integer
 
+// These Sings do
+
+=        assign value 
+==       equal
+>        greater
+<        less
+>=       greater equal
+<=       less equal
+&&       AND
+||       OR
