@@ -6,26 +6,31 @@ JavaScript can update and change both HTML and CSS.
 JavaScript can calculate, manipulate and validate data.
 
 // What is JavaScript and why it is used?
-JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
+JavaScript is a text-based programming language used 
+both on the client-side and server-side that allows 
+you to make web pages interactive. Where HTML and CSS 
+are languages that give structure and style to web pages,
+JavaScript gives web pages interactive elements that engage
+a user.
 
 // What is JavaScript explain?
-JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, ...        
+JavaScript is a scripting or programming language that allows
+you to implement complex features on web pages — every time a
+web page does more than just sit there and display static 
+information for you to look at — displaying timely content 
+updates, interactive maps, animated 2D/3D graphics, scrolling
+video jukeboxes, ...        
 
 // WHAT IS Function
 Where there are round brackets, it will be a function
-// TRANSLATE
-جہاں پر راؤنڈ بریکٹ ہوں گے تو وہ فنکشن ہوگا
         
 // Example
 document.write("2"+"Laiba")
 
 // + see two things 
 If it is an integer, the operation will be performed
-// TRANSLATE
 
 agar string hua to usko concat kardega
-// TRANSLATE
-اگر وہ سٹرنگ ہوگا تو وہ اس کو کون کیٹ کر دے گا
 
 // WHAT IS STRING
 string ==> "Hello World"
@@ -35,9 +40,9 @@ integer ==> 1,2,3,4,5,6,7,8,9,10
 
 // WHAT IS ALERT
 Alert is used to show a message to the user
-// TRANSLATE
-الرٹ یوزر کو میسج شو کروانے کے لیے استعمال ہوتا ہے
-Alerts are also used by us to show messages or perform operations
+
+Alerts are also used by us to show messages or perform
+operations
 
 Three methods to print
 1) document.write
@@ -60,3 +65,4 @@ There are two types of case-sensitive.
 // What is  parseInt
 1. A string to convert into a number
 2.Converts a string to an integer
+
