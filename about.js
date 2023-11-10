@@ -95,6 +95,7 @@ There are two types of case-sensitive.
 // These Sings do         END
 
 // Example if START 
+var laaosamaan = prompt ("Enter Sabzi")
 
 
 // Example if END
