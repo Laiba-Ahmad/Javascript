@@ -1,9 +1,10 @@
 document.write("<p>Made By Laiba</p>")
 
-// WHAT IS JavaScript
+// WHAT IS JavaScript START
 JavaScript is the Programming Language for the Web.
 JavaScript can update and change both HTML and CSS.
 JavaScript can calculate, manipulate and validate data.
+// WHAT IS JavaScript END
 
 // What is JavaScript and why it is used?
 JavaScript is a text-based programming language used 
