@@ -96,6 +96,8 @@ There are two types of case-sensitive.
 
 // Example if START 
 var laaosamaan = prompt ("Enter Sabzi")
-
+if(laaosamaan == "dhaniya"){
+document.write("haan dhaniya lee aao")
+}
 
 // Example if END
