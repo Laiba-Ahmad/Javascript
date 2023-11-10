@@ -99,5 +99,8 @@ var laaosamaan = prompt ("Enter Sabzi")
 if(laaosamaan == "dhaniya"){
 document.write("haan dhaniya lee aao")
 }
+else{
+        document.write(laaosamaan + "lee aao")
+}
 
 // Example if END
