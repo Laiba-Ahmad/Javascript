@@ -113,3 +113,12 @@ var c = -5
 var d = 20
 var result = b + b++ + ++b - d + d++ + c-- + ++a - --a + a++ + c++ + 30 -10
 document.write(result)
+
+// if statment Sabzi
+var laaosamaan = prompt ("Enter Sabzi")
+if(laaosamaan == "dhaniya"){
+document.write("haan dhaniya lee aao")
+}
+else{
+        document.write(laaosamaan + "lee aao")
+}
