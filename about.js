@@ -104,3 +104,6 @@ else{
 }
 
 // Example if END
+
+// Upper/Lower Case Example  First letter captial and end words small letters         START
+// Upper/Lower Case Example  First letter captial and end words small letters         END
