@@ -106,4 +106,10 @@ else{
 // Example if END
 
 // Upper/Lower Case Example  First letter captial and end words small letters         START
+var abc = 'Laiba'
+var a = abc.slice(0,1)
+document.write(a.toUpperCase())
+var b = abc.slice(1)
+var c = b.toLowerCase()
+document.write(c)
 // Upper/Lower Case Example  First letter captial and end words small letters         END
