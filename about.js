@@ -117,6 +117,6 @@ document.write(c)
 
 // Funtions
 1) Math.random
-2) Math.seal
+2) Math.ceil
 3)Math.floor
 4)Math.round
