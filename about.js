@@ -119,3 +119,4 @@ document.write(c)
 1) Match.random
 2) Match.seal
 3)Match.floor
+4)Match.round
