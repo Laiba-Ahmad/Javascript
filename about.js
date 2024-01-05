@@ -116,7 +116,7 @@ document.write(c)
 
 
 // Funtions
-1) Match.random
-2) Match.seal
-3)Match.floor
-4)Match.round
+1) Math.random
+2) Math.seal
+3)Math.floor
+4)Math.round
