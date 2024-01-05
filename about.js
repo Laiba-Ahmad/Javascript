@@ -113,3 +113,9 @@ var b = abc.slice(1)
 var c = b.toLowerCase()
 document.write(c)
 // Upper/Lower Case Example  First letter captial and end words small letters         END
+
+
+// Funtions
+1) Match.random
+2) Match.seal
+3)Match.floor
